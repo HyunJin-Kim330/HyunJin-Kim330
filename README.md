@@ -3,7 +3,7 @@
 
 <h1>🌱skills</h1>
 <h3>Language</h3>
-<span>Java, C, Python</span>
+<span>Swift5, Java, C, Python</span>
 <br/>
 <h3>Backend</h3>
 <span>SpringBoot, MySQL, JPA</span>
